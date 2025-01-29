@@ -1,4 +1,4 @@
-![netflix Logo](./netflix.jpg)
+![netflixx Logo](./netflixx.jpg)
 
 # Netflix Data Analysis Project
 
