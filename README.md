@@ -51,14 +51,12 @@ The goal of this project is to explore various business challenges faced by Netf
 
 This analysis helps Netflix enhance its content strategy by identifying content gaps, audience preferences, and performance trends. From optimizing content release timing to maximizing engagement through targeted content, this project provides actionable insights that can be applied to enhance Netflix's user experience and expand its global reach.
 
-## 📧 Contact Information
 
 Feel free to reach out to me for any questions or collaboration opportunities.
 
-**Email:** [arundeepp9393@gmail.com](mailto:arundeepp9393@gmail.com)
-
-**GitHub:** [https://github.com/arun-deep](https://github.com/arun-deep)
-
-**LinkedIn:** [https://www.linkedin.com/in/arun-deep-04964b258/](https://www.linkedin.com/in/arun-deep-04964b258/)
+## 🔗 Connect with me :
+- **Linkedin**: [linkedin.com/in/arun](https://www.linkedin.com/in/arun-deep-04964b258/) 🌐
+- **GitHub**: [github.com/ArunCooksData](https://github.com/ArunCooksData) 👨‍💻
+- **Email**: [arundeepp9393@gmail.com](mailto:arundeepp9393@gmail.com) 📧
 
 ---
